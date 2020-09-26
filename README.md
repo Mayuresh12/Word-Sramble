@@ -8,9 +8,7 @@ Create an anagram game while learning about closures and booleans.
 
 # App Demo
 
-![](gif/WordScramble.gif) 
-<img src="gif/WordScramble.gif"/>
-
+![](gif/WordScramble400.gif) 
 
 Concepts used here in this project.
 ------------------------------------------------
